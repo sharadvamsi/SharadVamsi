@@ -2,7 +2,7 @@
 # Hi there 👋 
 ## I'm **Sharad Vamsi** – a passionate developer with:
 - 💻 Hands-on experience in the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🛠️ **1 year of experience** as a **backend developer**
+- 🛠️ **1+ years of experience** as a **backend developer**
 - 🧠 Strong interest in **Artificial Intelligence** and **Cyber Security**<br>
 
 
